@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 8d5aaebc48cb1a54ba3e5ddd2f010c2a
+timeCreated: 1469138877
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MarkoThrustTest1_Sheet_0
+    21300002: MarkoThrustTest1_Sheet_1
+    21300004: MarkoThrustTest1_Sheet_2
+    21300006: MarkoThrustTest1_Sheet_3
+    21300008: MarkoThrustTest1_Sheet_4
+    21300010: MarkoThrustTest1_Sheet_5
+    21300012: MarkoThrustTest1_Sheet_6
+    21300014: MarkoThrustTest1_Sheet_7
+    21300016: MarkoThrustTest1_Sheet_8
+    21300018: MarkoThrustTest1_Sheet_9
+    21300020: MarkoThrustTest1_Sheet_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MarkoThrustTest1_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 153
+        height: 203
+      alignment: 9
+      pivot: {x: 0.45, y: 0.37931034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.949066, y: 7.225334}
+        - {x: 51.949066, y: -0.77466583}
+        - {x: 57.949066, y: -0.77466583}
+        - {x: 57.949066, y: 10.225334}
+        - {x: 17.949066, y: 86.225334}
+        - {x: -2.0509338, y: 86.225334}
+        - {x: -47.050934, y: 33.225334}
+        - {x: -47.050934, y: -23.774666}
+        - {x: -38.050934, y: -49.774666}
+        - {x: -35.050934, y: -52.774666}
+        - {x: 37.949066, y: -52.774666}
+        - {x: 51.949066, y: -44.774666}
+        - {x: 29.949066, y: -12.774666}
+    - name: MarkoThrustTest1_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 136
+        height: 199
+      alignment: 9
+      pivot: {x: 0.425, y: 0.38693467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.184525, y: -52.64}
+        - {x: 39.184525, y: -52.64}
+        - {x: 54.184525, y: -30.64}
+        - {x: 54.184525, y: 66.36}
+        - {x: 37.184525, y: 83.36}
+        - {x: -39.815475, y: 83.36}
+        - {x: -39.815475, y: -52.64}
+        - {x: -26.815475, y: -52.64}
+        - {x: -24.815475, y: -50.64}
+        - {x: -19.815475, y: -42.64}
+        - {x: -8.815475, y: -22.64}
+    - name: MarkoThrustTest1_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1
+        width: 145
+        height: 186
+      alignment: 9
+      pivot: {x: 0.45, y: 0.4139785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.80536, y: 75.60533}
+        - {x: -44.80536, y: -52.39467}
+        - {x: 42.19464, y: -52.39467}
+        - {x: 55.19464, y: -1.3946686}
+        - {x: 55.19464, y: 60.60533}
+        - {x: 30.194641, y: 75.60533}
+    - name: MarkoThrustTest1_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 0
+        width: 162
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44252872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.664, y: 8.326668}
+        - {x: 56.664, y: 63.326668}
+        - {x: 47.664, y: 66.32667}
+        - {x: -55.336, y: 66.32667}
+        - {x: -55.336, y: -28.673332}
+        - {x: -49.336, y: -52.673332}
+        - {x: -37.336, y: -52.673332}
+        - {x: -14.335999, y: -27.673332}
+        - {x: 15.664001, y: -52.673332}
+        - {x: 38.664, y: -52.673332}
+    - name: MarkoThrustTest1_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 0
+        width: 167
+        height: 174
+      alignment: 9
+      pivot: {x: 0.4, y: 0.44252872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.001892, y: -52.673332}
+        - {x: 69.00189, y: -22.673332}
+        - {x: 69.00189, y: 43.326668}
+        - {x: 31.001892, y: 66.32667}
+        - {x: -32.998108, y: 66.32667}
+        - {x: -45.998108, y: 25.326668}
+        - {x: -45.998108, y: -52.673332}
+        - {x: -38.998108, y: -52.673332}
+        - {x: -14.998108, y: -26.673332}
+        - {x: -8.998108, y: -16.673332}
+        - {x: 11.001892, y: -52.673332}
+    - name: MarkoThrustTest1_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 3
+        width: 216
+        height: 165
+      alignment: 9
+      pivot: {x: 0.3, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.152832, y: -19.697334}
+        - {x: 17.847168, y: -52.697334}
+        - {x: 35.847168, y: -52.697334}
+        - {x: 38.847168, y: 16.302666}
+        - {x: 22.847168, y: 21.302666}
+        - {x: 14.847168, y: 24.302666}
+        - {x: 104.84717, y: 1.3026657}
+        - {x: 104.84717, y: 36.302666}
+        - {x: 85.84717, y: 60.302666}
+        - {x: -3.152832, y: 60.302666}
+        - {x: -44.152832, y: -25.697334}
+        - {x: -44.152832, y: -52.697334}
+        - {x: -37.152832, y: -52.697334}
+        - {x: -31.152832, y: -45.697334}
+        - {x: -16.152832, y: -27.697334}
+    - name: MarkoThrustTest1_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1
+        width: 283
+        height: 166
+      alignment: 9
+      pivot: {x: 0.235, y: 0.46385542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.613892, y: -18.721333}
+        - {x: 28.613892, y: -12.721333}
+        - {x: 149.61389, y: 29.278667}
+        - {x: 149.61389, y: 38.278667}
+        - {x: 68.61389, y: 62.278667}
+        - {x: 7.6138916, y: 62.278667}
+        - {x: -16.386108, y: 45.278667}
+        - {x: -14.386108, y: 17.278667}
+        - {x: -6.3861084, y: 12.278667}
+        - {x: -45.38611, y: -45.721333}
+        - {x: -45.38611, y: -51.721333}
+        - {x: -44.38611, y: -52.721333}
+        - {x: -41.38611, y: -52.721333}
+        - {x: -38.38611, y: -51.721333}
+        - {x: -14.386108, y: -23.721333}
+        - {x: 15.613892, y: -52.721333}
+        - {x: 25.613892, y: -52.721333}
+    - name: MarkoThrustTest1_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 286
+        height: 165
+      alignment: 9
+      pivot: {x: 0.23, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.095581, y: 60.254665}
+        - {x: -10.904419, y: 44.254665}
+        - {x: -9.904419, y: 18.254665}
+        - {x: -5.904419, y: 16.254665}
+        - {x: -3.904419, y: 16.254665}
+        - {x: -44.90442, y: -45.745335}
+        - {x: -44.90442, y: -52.745335}
+        - {x: 115.09558, y: -52.745335}
+        - {x: 152.09558, y: -35.745335}
+        - {x: 152.09558, y: 37.254665}
+        - {x: 41.09558, y: 60.254665}
+    - name: MarkoThrustTest1_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 0
+        width: 245
+        height: 177
+      alignment: 9
+      pivot: {x: 0.23, y: 0.43502825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5303955, y: 68.35066}
+        - {x: -2.4696045, y: 63.350666}
+        - {x: -38.469604, y: -19.649334}
+        - {x: -38.469604, y: -52.649334}
+        - {x: 100.530396, y: -52.649334}
+        - {x: 130.5304, y: 8.350666}
+        - {x: 130.5304, y: 36.350666}
+        - {x: 49.530396, y: 68.35066}
+    - name: MarkoThrustTest1_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 0
+        width: 182
+        height: 186
+      alignment: 9
+      pivot: {x: 0.275, y: 0.4139785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.551147, y: 74.42267}
+        - {x: -34.448853, y: 74.42267}
+        - {x: -34.448853, y: -52.57733}
+        - {x: 43.551147, y: -52.57733}
+        - {x: 90.55115, y: 3.4226685}
+        - {x: 90.55115, y: 15.422668}
+        - {x: 70.55115, y: 64.42267}
+    - name: MarkoThrustTest1_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 0
+        width: 118
+        height: 190
+      alignment: 9
+      pivot: {x: 0.4, y: 0.40526316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.867432, y: 77.288}
+        - {x: -1.1325684, y: 77.288}
+        - {x: -32.13257, y: 32.288002}
+        - {x: -32.13257, y: -52.711998}
+        - {x: 48.86743, y: -52.711998}
+        - {x: 48.86743, y: 30.288002}
+        - {x: 18.867432, y: 76.288}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

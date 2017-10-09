@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: 9841dfed9a8f8e04ca6987269c36a6b4
+timeCreated: 1469081665
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MarkoSlashTest1_Sheet_0
+    21300002: MarkoSlashTest1_Sheet_1
+    21300004: MarkoSlashTest1_Sheet_2
+    21300006: MarkoSlashTest1_Sheet_3
+    21300008: MarkoSlashTest1_Sheet_4
+    21300010: MarkoSlashTest1_Sheet_5
+    21300012: MarkoSlashTest1_Sheet_6
+    21300014: MarkoSlashTest1_Sheet_7
+    21300016: MarkoSlashTest1_Sheet_8
+    21300018: MarkoSlashTest1_Sheet_9
+    21300020: MarkoSlashTest1_Sheet_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MarkoSlashTest1_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 153
+        height: 204
+      alignment: 9
+      pivot: {x: 0.45, y: 0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.949066, y: 7.0666656}
+        - {x: 51.949066, y: -0.93333435}
+        - {x: 57.949066, y: -0.93333435}
+        - {x: 57.949066, y: 20.066666}
+        - {x: 18.949066, y: 87.066666}
+        - {x: -2.0509338, y: 87.066666}
+        - {x: -47.050934, y: 32.066666}
+        - {x: -47.050934, y: -21.933334}
+        - {x: -38.050934, y: -49.933334}
+        - {x: -35.050934, y: -52.933334}
+        - {x: 37.949066, y: -52.933334}
+        - {x: 51.949066, y: -44.933334}
+        - {x: 29.949066, y: -12.933334}
+    - name: MarkoSlashTest1_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 156
+        height: 199
+      alignment: 9
+      pivot: {x: 0.55, y: 0.38693467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.464539, y: 81.36}
+        - {x: 14.464539, y: 83.36}
+        - {x: -2.5354614, y: 83.36}
+        - {x: -58.53546, y: 24.36}
+        - {x: -58.53546, y: 7.3600006}
+        - {x: -53.53546, y: 7.3600006}
+        - {x: -52.53546, y: -52.64}
+        - {x: 36.46454, y: -52.64}
+        - {x: 49.46454, y: -0.6399994}
+        - {x: 49.46454, y: 37.36}
+    - name: MarkoSlashTest1_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 206
+        height: 233
+      alignment: 9
+      pivot: {x: 0.575, y: 0.3304721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.996796, y: -48.034668}
+        - {x: 33.996796, y: -12.034668}
+        - {x: 60.996796, y: 12.965332}
+        - {x: 60.996796, y: 46.965332}
+        - {x: 8.996796, y: 106.96533}
+        - {x: -81.003204, y: 106.96533}
+        - {x: -81.003204, y: -53.034668}
+        - {x: -30.003204, y: -53.034668}
+        - {x: -12.003204, y: -26.034668}
+        - {x: 26.996796, y: -53.034668}
+        - {x: 35.996796, y: -53.034668}
+    - name: MarkoSlashTest1_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 0
+        width: 218
+        height: 247
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3117409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.14911, y: 53.244}
+        - {x: 15.149109, y: 85.244}
+        - {x: 3.149109, y: 80.244}
+        - {x: 3.149109, y: 63.244}
+        - {x: -77.85089, y: 116.244}
+        - {x: -84.85089, y: 116.244}
+        - {x: -84.85089, y: -14.7560005}
+        - {x: -74.85089, y: -52.756}
+        - {x: 33.14911, y: -52.756}
+        - {x: 55.14911, y: -45.756}
+        - {x: 64.14911, y: -19.756}
+    - name: MarkoSlashTest1_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 0
+        width: 225
+        height: 240
+      alignment: 9
+      pivot: {x: 0.725, y: 0.32083333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.39331, y: -52.645332}
+        - {x: 38.39331, y: -16.645332}
+        - {x: 35.39331, y: -11.645332}
+        - {x: 43.39331, y: 25.354668}
+        - {x: 43.39331, y: 66.35467}
+        - {x: 6.3933105, y: 93.35467}
+        - {x: -68.60669, y: 111.35467}
+        - {x: -111.60669, y: 111.35467}
+        - {x: -111.60669, y: 105.35467}
+        - {x: -64.60669, y: 41.354668}
+        - {x: -45.60669, y: -52.645332}
+        - {x: -31.60669, y: -52.645332}
+        - {x: -24.60669, y: -42.645332}
+        - {x: -2.6066895, y: -7.6453323}
+        - {x: 23.39331, y: -52.645332}
+    - name: MarkoSlashTest1_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 0
+        width: 384
+        height: 243
+      alignment: 9
+      pivot: {x: 0.585, y: 0.31687242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -153.29688, y: -2.6213303}
+        - {x: -74.296875, y: -52.62133}
+        - {x: 109.703125, y: -52.62133}
+        - {x: 109.703125, y: 15.37867}
+        - {x: 60.703125, y: 107.37867}
+        - {x: 43.703125, y: 113.37867}
+        - {x: -140.29688, y: 113.37867}
+        - {x: -153.29688, y: 101.37867}
+      - - {x: 80.703125, y: 33.37867}
+        - {x: 83.703125, y: 34.37867}
+        - {x: 83.703125, y: 37.37867}
+        - {x: 80.703125, y: 38.37867}
+        - {x: 78.703125, y: 36.37867}
+      - - {x: -35.296875, y: 68.37867}
+        - {x: -34.296875, y: 66.37867}
+        - {x: -32.296875, y: 66.37867}
+        - {x: -29.296875, y: 67.37867}
+        - {x: -29.296875, y: 74.37867}
+        - {x: -33.296875, y: 74.37867}
+        - {x: -35.296875, y: 72.37867}
+    - name: MarkoSlashTest1_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 0
+        width: 295
+        height: 189
+      alignment: 9
+      pivot: {x: 0.2, y: 0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.38794, y: 76.94667}
+        - {x: -40.38794, y: -53.053333}
+        - {x: 148.61206, y: -53.053333}
+        - {x: 162.61206, y: -33.053333}
+        - {x: 162.61206, y: 76.94667}
+      - - {x: -19.38794, y: 67.94667}
+        - {x: -16.38794, y: 63.946667}
+        - {x: -13.387939, y: 64.94667}
+        - {x: -13.387939, y: 68.94667}
+        - {x: -16.38794, y: 71.94667}
+        - {x: -19.38794, y: 70.94667}
+    - name: MarkoSlashTest1_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 0
+        width: 283
+        height: 189
+      alignment: 9
+      pivot: {x: 0.215, y: 0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 152.79639, y: 70.94667}
+        - {x: 152.79639, y: 76.94667}
+        - {x: 0.7963867, y: 76.94667}
+        - {x: -26.203613, y: 65.94667}
+        - {x: -41.203613, y: -23.053333}
+        - {x: -41.203613, y: -53.053333}
+        - {x: 32.796387, y: -53.053333}
+        - {x: 38.796387, y: -13.053333}
+        - {x: 24.796387, y: -3.0533333}
+    - name: MarkoSlashTest1_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 0
+        width: 220
+        height: 192
+      alignment: 9
+      pivot: {x: 0.225, y: 0.40104166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.94275, y: 78.97067}
+        - {x: 4.942749, y: 78.97067}
+        - {x: -2.057251, y: 58.97067}
+        - {x: -34.05725, y: -38.02933}
+        - {x: -34.05725, y: -53.02933}
+        - {x: 82.94275, y: -53.02933}
+        - {x: 116.94275, y: -8.029331}
+        - {x: 116.94275, y: 61.97067}
+        - {x: 104.94275, y: 59.97067}
+    - name: MarkoSlashTest1_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 0
+        width: 198
+        height: 195
+      alignment: 9
+      pivot: {x: 0.225, y: 0.3948718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.171143, y: 80.99467}
+        - {x: 6.1711426, y: 80.99467}
+        - {x: 5.1711426, y: 78.99467}
+        - {x: 4.1711426, y: 75.99467}
+        - {x: -0.8288574, y: 52.994667}
+        - {x: -8.828857, y: 11.994667}
+        - {x: -30.828857, y: -45.005333}
+        - {x: -30.828857, y: -53.005333}
+        - {x: 35.171143, y: -53.005333}
+        - {x: 105.17114, y: -7.005333}
+        - {x: 105.17114, y: 44.994667}
+    - name: MarkoSlashTest1_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 0
+        width: 134
+        height: 199
+      alignment: 9
+      pivot: {x: 0.3, y: 0.38693467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.6261, y: -49.64}
+        - {x: 64.6261, y: 18.36}
+        - {x: 16.626099, y: 83.36}
+        - {x: 2.6260986, y: 83.36}
+        - {x: 0.62609863, y: 82.36}
+        - {x: -25.373901, y: 16.36}
+        - {x: -27.373901, y: -6.6399994}
+        - {x: -27.373901, y: -52.64}
+        - {x: -21.373901, y: -52.64}
+        - {x: -6.3739014, y: -31.64}
+        - {x: 3.6260986, y: -52.64}
+        - {x: 60.6261, y: -52.64}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

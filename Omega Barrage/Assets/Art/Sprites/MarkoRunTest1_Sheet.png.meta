@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 63fab82a79dbc0a4a83c484aeccaf281
+timeCreated: 1466637193
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MarkoRun1
+    21300002: MarkoRun2
+    21300004: MarkoRun3
+    21300006: MarkoRun4
+    21300008: MarkoRun5
+    21300010: MarkoRun6
+    21300012: MarkoRun7
+    21300014: MarkoRun8
+    21300016: MarkoRun9
+    21300018: MarkoRun10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MarkoRun1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 233
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5891632, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79.38751, y: 50.5}
+        - {x: 61.387512, y: 60.5}
+        - {x: 54.387512, y: 63.5}
+        - {x: -58.612488, y: 63.5}
+        - {x: -112.61249, y: 7.5}
+        - {x: -112.61249, y: -40.5}
+        - {x: -79.61249, y: -63.5}
+        - {x: -21.612488, y: -63.5}
+        - {x: 17.387512, y: -54.5}
+        - {x: 23.387512, y: -48.5}
+        - {x: 79.38751, y: 16.5}
+    - name: MarkoRun2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 235
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5736896, y: 0.46107784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.701065, y: 0.8248024}
+        - {x: 82.701065, y: 31.824802}
+        - {x: 82.701065, y: 44.824802}
+        - {x: 63.701065, y: 73.8248}
+        - {x: -36.298935, y: 73.8248}
+        - {x: -110.298935, y: 33.824802}
+        - {x: -110.298935, y: 2.8248024}
+        - {x: -106.298935, y: -58.175198}
+        - {x: -81.298935, y: -63.175198}
+        - {x: 43.701065, y: -63.175198}
+        - {x: 43.701065, y: -45.175198}
+        - {x: 39.701065, y: -16.175198}
+        - {x: 27.701065, y: -5.1751976}
+    - name: MarkoRun3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 222
+        height: 148
+      alignment: 9
+      pivot: {x: 0.518354, y: 0.527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94.46991, y: -11.276794}
+        - {x: -94.46991, y: -36.276794}
+        - {x: -79.46991, y: -51.276794}
+        - {x: -54.46991, y: -64.276794}
+        - {x: 25.53009, y: -64.276794}
+        - {x: 88.53009, y: -27.276794}
+        - {x: 88.53009, y: 57.723206}
+        - {x: -30.46991, y: 57.723206}
+        - {x: -40.46991, y: 52.723206}
+    - name: MarkoRun4
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 0
+        width: 112
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5133333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.904785, y: -38.138397}
+        - {x: 1.9047852, y: -3.1383972}
+        - {x: 16.904785, y: -18.138397}
+        - {x: 28.904785, y: -27.138397}
+        - {x: 46.904785, y: 21.861603}
+        - {x: 46.904785, y: 59.861603}
+        - {x: 3.9047852, y: 59.861603}
+        - {x: -46.095215, y: -10.138397}
+        - {x: -46.095215, y: -63.138397}
+        - {x: -11.095215, y: -63.138397}
+        - {x: 39.904785, y: -60.138397}
+        - {x: 46.904785, y: -57.138397}
+        - {x: 46.904785, y: -53.138397}
+    - name: MarkoRun5
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 0
+        width: 212
+        height: 148
+      alignment: 9
+      pivot: {x: 0.4, y: 0.527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.410583, y: -64.276794}
+        - {x: -1.4105835, y: -64.276794}
+        - {x: 40.589417, y: -39.276794}
+        - {x: 104.58942, y: 13.723206}
+        - {x: 104.58942, y: 26.723206}
+        - {x: 74.58942, y: 57.723206}
+        - {x: -55.410583, y: 57.723206}
+        - {x: -69.41058, y: -29.276794}
+        - {x: -69.41058, y: -64.276794}
+        - {x: -61.410583, y: -64.276794}
+        - {x: -34.410583, y: -32.276794}
+        - {x: -29.410583, y: -48.276794}
+        - {x: -25.410583, y: -55.276794}
+    - name: MarkoRun6
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 0
+        width: 219
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39086294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.107178, y: -4.3871994}
+        - {x: 86.10718, y: 14.612801}
+        - {x: 90.10718, y: 62.6128}
+        - {x: 90.10718, y: 98.6128}
+        - {x: 62.107178, y: 98.6128}
+        - {x: -79.89282, y: 69.6128}
+        - {x: -89.89282, y: 1.6128006}
+        - {x: -89.89282, y: -63.3872}
+        - {x: -29.892822, y: -63.3872}
+        - {x: 18.107178, y: -53.3872}
+        - {x: 33.107178, y: -15.387199}
+        - {x: 4.1071777, y: 2.6128006}
+    - name: MarkoRun7
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 0
+        width: 222
+        height: 216
+      alignment: 9
+      pivot: {x: 0.45792556, y: 0.3564815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99.96289, y: 51.895195}
+        - {x: 85.96289, y: 113.895195}
+        - {x: 76.96289, y: 113.895195}
+        - {x: 76.96289, y: 91.895195}
+        - {x: -29.03711, y: 78.895195}
+        - {x: -26.03711, y: 65.895195}
+        - {x: -24.03711, y: 62.895195}
+        - {x: -83.03711, y: -27.104805}
+        - {x: -83.03711, y: -36.104805}
+        - {x: -81.03711, y: -37.104805}
+        - {x: -77.03711, y: -37.104805}
+        - {x: -37.03711, y: -25.104805}
+        - {x: -25.03711, y: -18.104805}
+        - {x: 29.96289, y: -63.104805}
+        - {x: 42.96289, y: -63.104805}
+        - {x: 39.96289, y: -17.104805}
+        - {x: 98.96289, y: 15.895195}
+        - {x: 99.96289, y: 22.895195}
+    - name: MarkoRun8
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 0
+        width: 195
+        height: 189
+      alignment: 9
+      pivot: {x: 0.4085831, y: 0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.31677, y: 91.836}
+        - {x: -65.31677, y: -63.164}
+        - {x: 45.683228, y: -63.164}
+        - {x: 94.68323, y: -10.164001}
+        - {x: 94.68323, y: 91.836}
+    - name: MarkoRun9
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 0
+        width: 174
+        height: 149
+      alignment: 9
+      pivot: {x: 0.21313897, y: 0.5167785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.407715, y: 57.452}
+        - {x: 59.407715, y: 59.452}
+        - {x: 43.407715, y: 59.452}
+        - {x: 7.407715, y: 36.452}
+        - {x: -7.592285, y: 1.4519997}
+        - {x: -30.592285, y: -27.548}
+        - {x: -30.592285, y: -63.548}
+        - {x: 112.407715, y: -63.548}
+        - {x: 113.407715, y: -60.548}
+        - {x: 113.407715, y: -34.548}
+    - name: MarkoRun10
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 0
+        width: 159
+        height: 149
+      alignment: 9
+      pivot: {x: 0.38788417, y: 0.5167785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.4729, y: 59.452}
+        - {x: 9.4729, y: 46.452}
+        - {x: -20.5271, y: 22.452}
+        - {x: -50.5271, y: -54.548}
+        - {x: -50.5271, y: -63.548}
+        - {x: 75.4729, y: -63.548}
+        - {x: 75.4729, y: 19.452}
+        - {x: 62.4729, y: 59.452}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

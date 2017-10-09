@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: 69e7f764d52cd044199ab28650385594
+timeCreated: 1467208273
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Overhead1
+    21300002: Overhead2
+    21300004: Overhead3
+    21300006: Overhead4
+    21300008: Overhead5
+    21300010: Overhead6
+    21300012: Overhead7
+    21300014: Overhead8
+    21300016: Overhead9
+    21300018: Overhead10
+    21300020: Overhead11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Overhead1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2
+        width: 154
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37560976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5504, y: -30.236002}
+        - {x: 14.5504, y: -31.236002}
+        - {x: 20.5504, y: -31.236002}
+        - {x: 23.5504, y: -18.236002}
+        - {x: 32.5504, y: -0.23600197}
+        - {x: 32.5504, y: 8.763998}
+        - {x: 14.5504, y: 53.764}
+        - {x: -5.4496, y: 53.764}
+        - {x: -31.4496, y: 31.763998}
+        - {x: -31.4496, y: -3.236002}
+        - {x: -21.4496, y: -30.236002}
+        - {x: -20.4496, y: -31.236002}
+        - {x: -11.4496, y: -31.236002}
+        - {x: -1.4496002, y: -11.236002}
+        - {x: -1.4496002, y: -2.236002}
+    - name: Overhead2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2
+        width: 143
+        height: 193
+      alignment: 9
+      pivot: {x: 0.35, y: 0.39896372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.278732, y: 18.806398}
+        - {x: 39.278732, y: 24.806398}
+        - {x: 39.278732, y: 31.806398}
+        - {x: 38.278732, y: 31.806398}
+        - {x: 26.278732, y: 29.806398}
+        - {x: 19.278732, y: 48.806396}
+        - {x: -20.721268, y: 48.806396}
+        - {x: -20.721268, y: -31.193602}
+        - {x: 20.278732, y: -31.193602}
+        - {x: 21.278732, y: -26.193602}
+        - {x: 13.278732, y: -6.1936016}
+        - {x: 33.278732, y: 12.806398}
+    - name: Overhead3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2
+        width: 142
+        height: 242
+      alignment: 9
+      pivot: {x: 0.45, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.168137, y: 68.8416}
+        - {x: 9.168137, y: 68.8416}
+        - {x: -21.831863, y: 40.8416}
+        - {x: -25.831863, y: 1.8416004}
+        - {x: -25.831863, y: -31.1584}
+        - {x: 32.168137, y: -31.1584}
+        - {x: 33.168137, y: -29.1584}
+        - {x: 33.168137, y: 36.8416}
+        - {x: 30.168137, y: 37.8416}
+    - name: Overhead4
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2
+        width: 124
+        height: 286
+      alignment: 9
+      pivot: {x: 0.45, y: 0.26923078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.566101, y: 86.8528}
+        - {x: -22.566101, y: 86.8528}
+        - {x: -22.566101, y: 73.8528}
+        - {x: -13.566101, y: 41.8528}
+        - {x: -22.566101, y: -3.1472034}
+        - {x: -22.566101, y: -31.147203}
+        - {x: 25.433899, y: -31.147203}
+        - {x: 29.433899, y: -28.147203}
+        - {x: 29.433899, y: 58.8528}
+        - {x: 15.433899, y: 74.8528}
+      - - {x: 26.433899, y: 68.8528}
+        - {x: 28.433899, y: 66.8528}
+        - {x: 29.433899, y: 66.8528}
+        - {x: 29.433899, y: 71.8528}
+        - {x: 27.433899, y: 71.8528}
+    - name: Overhead5
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2
+        width: 190
+        height: 253
+      alignment: 9
+      pivot: {x: 0.7, y: 0.3043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.619965, y: 37.5944}
+        - {x: 16.619965, y: 47.5944}
+        - {x: 10.619965, y: 57.5944}
+        - {x: 3.6199646, y: 70.5944}
+        - {x: -3.3800354, y: 73.5944}
+        - {x: -54.380035, y: 73.5944}
+        - {x: -54.380035, y: 37.5944}
+        - {x: -28.380035, y: -31.4056}
+        - {x: 24.619965, y: -31.4056}
+        - {x: 24.619965, y: 48.5944}
+        - {x: 20.619965, y: 46.5944}
+      - - {x: -54.380035, y: 38.5944}
+        - {x: -51.380035, y: 39.5944}
+        - {x: -51.380035, y: 42.5944}
+        - {x: -53.380035, y: 44.5944}
+        - {x: -54.380035, y: 44.5944}
+    - name: Overhead6
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 2
+        width: 146
+        height: 279
+      alignment: 9
+      pivot: {x: 0.6, y: 0.27598566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.84738, y: 84.4192}
+        - {x: -35.84738, y: -24.580801}
+        - {x: -32.84738, y: -31.580801}
+        - {x: 24.152618, y: -31.580801}
+        - {x: 24.152618, y: 84.4192}
+    - name: Overhead7
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 5
+        width: 205
+        height: 295
+      alignment: 9
+      pivot: {x: 0.45, y: 0.26101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.160828, y: -11.575195}
+        - {x: 47.160828, y: 77.424805}
+        - {x: 42.160828, y: 89.424805}
+        - {x: -37.839172, y: 89.424805}
+        - {x: -37.839172, y: -15.575195}
+        - {x: -33.839172, y: -31.575195}
+        - {x: -20.839172, y: -31.575195}
+        - {x: -9.839172, y: -12.575195}
+        - {x: 7.1608276, y: -31.575195}
+        - {x: 35.160828, y: -31.575195}
+    - name: Overhead8
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 2
+        width: 256
+        height: 278
+      alignment: 9
+      pivot: {x: 0.3, y: 0.2769784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.601318, y: 83.7144}
+        - {x: -31.601318, y: 81.7144}
+        - {x: -31.601318, y: -31.2856}
+        - {x: 31.398682, y: -31.2856}
+        - {x: 74.39868, y: 4.7143993}
+        - {x: 74.39868, y: 77.7144}
+        - {x: 72.39868, y: 83.7144}
+    - name: Overhead9
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 2
+        width: 249
+        height: 181
+      alignment: 9
+      pivot: {x: 0.3, y: 0.42541435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.783569, y: 43.8488}
+        - {x: -14.783569, y: 42.8488}
+        - {x: -22.78357, y: 17.848799}
+        - {x: -17.78357, y: 11.848799}
+        - {x: -30.78357, y: -21.151201}
+        - {x: -30.78357, y: -31.151201}
+        - {x: 35.21643, y: -31.151201}
+        - {x: 72.21643, y: -12.151201}
+        - {x: 72.21643, y: 43.8488}
+    - name: Overhead10
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 0
+        width: 266
+        height: 189
+      alignment: 9
+      pivot: {x: 0.4, y: 0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.171875, y: 46.168}
+        - {x: -28.171875, y: 27.168}
+        - {x: -28.171875, y: -31.832}
+        - {x: 54.828125, y: -31.832}
+        - {x: 66.828125, y: -22.832}
+        - {x: 66.828125, y: 13.167999}
+        - {x: 31.828125, y: 46.168}
+    - name: Overhead11
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 5
+        width: 103
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40957448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.771973, y: -31.9888}
+        - {x: 22.228027, y: -31.9888}
+        - {x: 22.228027, y: 19.0112}
+        - {x: 18.228027, y: 45.0112}
+        - {x: 16.228027, y: 46.0112}
+        - {x: 3.2280273, y: 46.0112}
+        - {x: -20.771973, y: 18.0112}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
